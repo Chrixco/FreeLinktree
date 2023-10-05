@@ -1,8 +1,3 @@
-
-
-
-Certainly, Chris. Below is a sample README file that you can include in your FreeLinktree GitHub repository. This README provides an overview of the project, features, and a step-by-step guide for others to clone and use the repository for their own pages.
-
 FreeLinktree: A Free Linktree Alternative
 This repository contains the code for a simplified, customizable version of a Linktree-like landing page. This allows you to have a single webpage that houses multiple outbound links, perfect for social media bios.
 
